@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\jamed\source\repos\student\student3\MyForm.h(84,48): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jamed\source\repos\student\student3\MyForm.h(225,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student3\MyForm.h(228,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student3\MyForm.h(231,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student3\MyForm.h(238,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student3\MyForm.h(238,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student3\MyForm.h(526,61): warning C4101: e: неиспользованная локальная переменная
+C:\Users\jamed\source\repos\student\student3\MyForm.h(552,61): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  student2211.vcxproj -> C:\Users\jamed\source\repos\student\student3\x64\Debug\student2211.exe

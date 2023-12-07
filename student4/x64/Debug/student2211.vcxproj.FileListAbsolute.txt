@@ -1,0 +1,6 @@
+C:\Users\jamed\source\repos\student\student2211\x64\Debug\student2211.vcxproj.AssemblyReference.cache
+C:\Users\jamed\source\repos\student\student2211\x64\Debug\student2211.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jamed\source\repos\student\student2211\x64\Debug\student2211.exe
+C:\Users\jamed\source\repos\student\student3\x64\Debug\student2211.vcxproj.AssemblyReference.cache
+C:\Users\jamed\source\repos\student\student3\x64\Debug\student2211.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jamed\source\repos\student\student3\x64\Debug\student2211.exe
